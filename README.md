@@ -27,7 +27,7 @@ sql-learning-notes/
 
 Each concept has its own markdown file in `notes/` explaining the 
 syntax, rules and examples. All practice queries are collected in 
-`practice/queries.sql` and can be run on 
+`practice/` and can be run on 
 [sqliteonline.com](https://sqliteonline.com).
 
 ## Author
