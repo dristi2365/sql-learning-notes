@@ -12,6 +12,7 @@ sql-learning-notes/
     project/
         mini_project.md    # Mini project notes
         mini_project.sql   # Mini project queries
+        sql_media_tracker/
     README.md
 ```
 
