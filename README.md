@@ -26,7 +26,7 @@ sql-learning-notes/
 - [x] 06 — Subqueries
 - [x] 07 — INSERT, UPDATE, DELETE
 - [x] 08 — CREATE TABLE and Data Types
-- [x] 09 — Mini Project: Student Performance Analysis
+- [x] 09 — Mini Project: Student Performance Analysis and Media Tracker
 
 ## How to Use
 
